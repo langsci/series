@@ -1,0 +1,21 @@
+LightBlue	1	~	PMWE			~
+MidBlue    	2	0.75,0.15,0,0	EOTMS			#04a6e0
+MidDarkBlue	3	0.9,0.4,0.05,0	TGDI	OGL	ELA	007fbb#
+DarkBlue	        	0.9,0.5,0.15,0.3	TMNLP    	TPD		#055781
+NightBlue	5	1,0.47,0.22,0.68,	CMLE			#002e48
+Yellow   	6	0,0.25,1,0	TBLS			#fdc10c
+LightOrange	7	0,0.50,1,0	ALGAD			#f7941d
+MidOrange	8	~	EUROSLA			~
+DarkOrange	9	0,0.78,1,0	SCL			#f05e21
+Red      	10	0.05,1,0.8,0	MCNC	CAM	AHL	#e21c3b
+LightWine	11	0.3,1,0.6,0	SILP			#b52453
+MidWine  	12	Contemporary African Linguistics	CAL			#7c2149
+DarkWine 	13	0.58,1,0.70,0.35	LV	ORL		#5e1834
+SoftGreen	14	~	~			~
+LightGreen	15	~	CIB			~
+MidGreen 	16	0.55,0,0.9,0.1	OSL			#67E617
+RichGreen	17	0.6,0,0.9,0.35	SIDL			#49883a
+DarkGreen1	18	0.85,0.02,0.95,0.38	OGS			#189b08
+DarkGreen2	19	0.85,0.05,1,0.5	MI			#165f22
+NightGreen	20	0.88,0.15,1,0.66	CFLS			#004718
+Black	20	0,0,0,1	CLASSICS	HPLS		#000000
