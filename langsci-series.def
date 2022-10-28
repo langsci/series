@@ -25,6 +25,7 @@
 \newcommand{\nc}{nc}		%Niger Congo
 \newcommand{\ogs}{ogs}		%Open Generative Syntax
 \newcommand{\ogl}{ogl}      %  Open Germanic Linguistics
+\newcommand{\orl}{orl}		%Open Romance Linguistics
 \newcommand{\osl}{osl}		%Open Slavic Linguistics
 \newcommand{\pmwe}{pmwe}		%Phraseology and Multi-Word Expressions
 \newcommand{\rcg}{rcg} %
@@ -605,6 +606,31 @@
             \item Bárány, András, Theresa Biberauer, Jamie Douglas \& Sten Vikner (eds.). Syntactic architecture and its consequences II: Between syntax and morphology.
             \item Bárány, András, Theresa Biberauer, Jamie Douglas \& Sten Vikner (eds.). Syntactic architecture and its consequences III: Inside syntax.
             \item Laszakovits, Sabine \& Zheng Shen (eds.). The size of things I: Structure building.
+            \end{enumerate}
+            }
+\fi
+\ifx\lsSeries\orl
+	\newcommand{\lsSeriesTitle}{Open Romance Linguistics}
+	\newcommand{\lsSeriesColor}{lsDarkWine}
+	%\renewcommand{\lsISSNelectronic}{} % Online
+	%\renewcommand{\lsISSNprint}{}% (Print)
+	\renewcommand{\lsSeriesText}{
+            {\large Open Romance Linguistics}
+
+            \bigskip
+
+            \textbf{Editors:} \\
+            Lorenzo Filipponio (HU Berlin)\\
+            Richard Waltereit (HU Berlin)\\
+            Esme Winter-Froemel (Julius-Maximilians-Universität Würzburg)\\
+            Anne C. Wolfsgruber (HU Berlin)\\
+
+            \bigskip
+
+            \textbf{In this series:}
+
+            \begin{enumerate}
+            \item Kocher, Anna. Complementizers on edge: On the boundaries between syntax and pragmatics in Ibero-Romance.
             \end{enumerate}
             }
 \fi
