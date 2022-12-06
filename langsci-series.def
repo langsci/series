@@ -612,8 +612,8 @@
 \ifx\lsSeries\orl
 	\newcommand{\lsSeriesTitle}{Open Romance Linguistics}
 	\newcommand{\lsSeriesColor}{lsDarkWine}
-	%\renewcommand{\lsISSNelectronic}{} % Online
-	%\renewcommand{\lsISSNprint}{}% (Print)
+	\renewcommand{\lsISSNelectronic}{2940-1100} % Online
+	\renewcommand{\lsISSNprint}{2940-1097}% (Print)
 	\renewcommand{\lsSeriesText}{
             {\large Open Romance Linguistics}
 
