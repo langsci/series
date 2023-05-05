@@ -384,9 +384,9 @@
 	}
 \fi
 \ifx\lsSeries\ela
-        \newcommand{\elatitle}{Estudios de Lingüística Amerindia}
-        \newcommand{\elaeditor}{Editores:}
-        \newcommand{\elainthisseries}{En esta serie:}
+    \newcommand{\elatitle}{Estudios de Lingüística Amerindia}
+    \newcommand{\elaeditor}{Editores:}
+    \newcommand{\elainthisseries}{En esta serie:}
 	\newcommand{\lsSeriesTitle}{\elatitle}
 	\newcommand{\lsSeriesColor}{lsMidDarkBlue}
 
@@ -406,9 +406,10 @@
 
             \elainthisseries
 
-            %\begin{enumerate}
-            %\end{enumerate}
-	}
+            \begin{enumerate}
+            \item Dyck, Carrie, Frances Froman, Alfred Keye \& Lottie Keye. A grammar and dictionary of Gayogo̱hó:nǫˀ (Cayuga).
+            \end{enumerate}
+}
 \fi
 \ifx\lsSeries\hpls
 	\newcommand{\lsSeriesTitle}{History and Philosophy of the Language Sciences}
