@@ -344,8 +344,9 @@
             \item Crysmann, Berthold \& Manfred Sailer (eds.). One-to-many relations in morphology, syntax, and semantics.
             \item Zinova, Yulia. Russian verbal prefixation: A frame semantic analysis.
             \item  Müller, Stefan, Anne Abeillé, Robert D. Borsley \& Jean-Pierre Koenig. Head-Driven Phrase Structure Grammar: The handbook.
-	    \item Diewald, Gabriele \& Katja Politt (eds.). Paradigms regained: Theoretical and empirical arguments for the reassessment of the notion of paradigm.
-	    \item Freywald, Ulrike,   Horst J. Simon   \& Stefan Müller (eds.). Headedness and/or grammatical anarchy?
+            \item Diewald, Gabriele \& Katja Politt (eds.). Paradigms regained: Theoretical and empirical arguments for the reassessment of the notion of paradigm.
+            \item Freywald, Ulrike,   Horst J. Simon   \& Stefan Müller (eds.). Headedness and/or grammatical anarchy?
+            \item Kawaletz, Lea. The semantics of English \textit{-ment} nominalizations.
             \end{enumerate}
             }
 \fi
@@ -384,9 +385,9 @@
 	}
 \fi
 \ifx\lsSeries\ela
-        \newcommand{\elatitle}{Estudios de Lingüística Amerindia}
-        \newcommand{\elaeditor}{Editores:}
-        \newcommand{\elainthisseries}{En esta serie:}
+    \newcommand{\elatitle}{Estudios de Lingüística Amerindia}
+    \newcommand{\elaeditor}{Editores:}
+    \newcommand{\elainthisseries}{En esta serie:}
 	\newcommand{\lsSeriesTitle}{\elatitle}
 	\newcommand{\lsSeriesColor}{lsMidDarkBlue}
 
@@ -397,18 +398,19 @@
 
             \elaeditor
 
-    Carolina González. Florida State University\\
-    Siri Tuttle. Navajo Technical University in New Mexico\\
-    Thiago Chacon. University of Brasilia\\
-    Heriberto Avelino. National Institute for Anthropology and History\\
+    Carolina González (Florida State University)\\
+    Siri Tuttle (Navajo Technical University in New Mexico)\\
+    Thiago Chacon (University of Brasilia)\\
+    Heriberto Avelino (National Institute for Anthropology and History)\\
 
             \bigskip
 
             \elainthisseries
 
-            %\begin{enumerate}
-            %\end{enumerate}
-	}
+            \begin{enumerate}
+            \item Dyck, Carrie, Frances Froman, Alfred Keye \& Lottie Keye. A grammar and dictionary of Gayogo̱hó:nǫˀ (Cayuga).
+            \end{enumerate}
+}
 \fi
 \ifx\lsSeries\hpls
 	\newcommand{\lsSeriesTitle}{History and Philosophy of the Language Sciences}
@@ -635,6 +637,7 @@
             \begin{enumerate}
             \item Kocher, Anna. Complementizers on edge: On the boundaries between syntax and pragmatics in Ibero-Romance.
             \item Bullock, Barbara E. Cinzia Russi \& Almeida Jacqueline Toribio (eds.). A half century of Romance linguistics: Selected proceedings of the 50th Linguistic Symposium on Romance Languages.
+            \item Fliessbach, Jan. The intonation of expectations: On marked declaratives, exclamatives, and discourse particles in Castilian Spanish.
             \end{enumerate}
             }
 \fi
@@ -717,6 +720,7 @@
             \begin{enumerate}
                 \item  Bahrt, Nicklas N. Voice syncretism.
                 \item  Veselinova, Ljuba \& Arja Hamari (eds.). The Negative Existential Cycle.
+                \item  Janic, Katarzyna, Nicoletta Puddu \& Martin Haspelmath (eds.). Reflexive constructions in the world's languages.
             \end{enumerate}
             }
 \fi
@@ -820,24 +824,23 @@
 
             In this series:
 
-            \begin{enumerate}
+            \lsSeriesHistoryWheel[10]{
             \item Cangemi, Francesco. Prosodic detail in Neapolitan Italian.
             \item Drager, Katie. Linguistic variation, identity construction, and cognition.
             \item Roettger, Timo B. Tonal placement in Tashlhiyt: How an intonation system accommodates to adverse phonological environments.
             \item Mücke, Doris. Dynamische Modellierung von Artikulation und prosodischer Struktur: Eine Einführung in die Artikulatorische Phonologie.
             \item Bergmann, Pia. Morphologisch komplexe Wörter im Deutschen: Prosodische Struktur und phonetische Realisierung.
-            \item Feldhausen, Ingo, Jan Fliessbach \& Maria del Mar Vanrell. Methods in prosody: A Romance language perspective.
+            \item Feldhausen, Ingo, Jan Fliessbach \& Maria del Mar Vanrell (eds.). Methods in prosody: A Romance language perspective.
             \item Tilsen, Sam. Syntax with oscillators and energy levels.
             \item Ben Hedia, Sonia. Gemination and degemination in English affixation: Investigating the interplay between morphology, phonology and phonetics.
             \item Easterday, Shelece. Highly complex syllable structure: A typological and diachronic study.
             \item Roessig, Simon. Categoriality and continuity in prosodic prominence.
             \item Schmitz, Dominic. Production, perception, and comprehension of subphonemic detail: Word-Final /s/ in English.
-            \item Schubö, Fabian,   Sabine Zerbian,   Sandra Hanne \&   Isabell Wartenburger. Prosodic boundary phenomena
+            \item Schubö, Fabian, Sabine Zerbian, Sandra Hanne \& Isabell Wartenburger (eds.). Prosodic boundary phenomena.
             \item Albert, Aviad. A model of sonority based on pitch intelligibility.
-
-            \end{enumerate}
-
             }
+            }
+            
 \fi
 \ifx\lsSeries\tbls
 	\newcommand{\lsSeriesTitle}{Textbooks in Language Sciences}
