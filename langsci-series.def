@@ -47,6 +47,7 @@
 	\newcommand{\lsSeriesColor}{lsRed}
 %	\renewcommand{\lsISSN}{}
 	\renewcommand{\lsSeriesText}{
+	{\large Advances in Historical Linguistics}
             Editors:
             Klaus Grübl (Leipzig University, Germany),
             Judith Huber (LMU Munich, Germany),
@@ -69,6 +70,7 @@
 	\newcommand{\lsSeriesColor}{lsLightOrange}
 	\renewcommand{\lsISSN}{2512-4862}
 	\renewcommand{\lsSeriesText}{
+	{\large African Language Grammars and Dictionaries}
             Chief Editor:    Adams Bodomo \\
             Editor:        Firmin Ahoua
 
