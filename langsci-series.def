@@ -45,7 +45,8 @@
 \ifx\lsSeries\ahl
 	\newcommand{\lsSeriesTitle}{Advances in Historical Linguistics}
 	\newcommand{\lsSeriesColor}{lsRed}
-	\renewcommand{\lsISSN}{2943-0550}
+	\renewcommand{\lsISSNprint}{2943-0550}
+	\renewcommand{\lsISSNelectronic}{2943-064X}
 	\renewcommand{\lsSeriesText}{
 	{\large Advances in Historical Linguistics}
             Editors:
@@ -390,7 +391,8 @@
 	}
 \fi
 \ifx\lsSeries\ela
-    \renewcommand{\lsISSN}{2943-0569}
+    \renewcommand{\lsISSNelectronic}{2943-0658}
+    \renewcommand{\lsISSNprint}{2943-0569}
     \newcommand{\elatitle}{Estudios de Lingüística Amerindia}
     \newcommand{\elaeditor}{Editores:}
     \newcommand{\elainthisseries}{En esta serie:}
