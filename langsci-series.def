@@ -114,6 +114,7 @@
             \item Sibanda, Galen, Deo Ngonyani, Jonathan Choti \& Ann Biersteker (eds.). Descriptive and theoretical approaches to African linguistics: Selected papers from the 49th Annual Conference on African Linguistics.
             \item Akinlabi, Akinbiyi, Lee Bickmore, Michael Cahill, Michael Diercks, Laura J. Downing, James Essegbey, Katie Franich, Laura McPherson \& Sharon Rose (eds.). Celebrating 50 years of ACAL: Selected papers from the 50th Annual Conference on African Linguistics.
             \item Gibson, Hannah, Rozenn Guérois, Gastor Mapunda \& Lutz Marten (eds.). Morphosyntactic variation in East African Bantu languages: Descriptive and comparative approaches.
+            \item Green, Christopher R. \& Samson Lotven (eds.). The Ghanaian linguistics nexus.
             \end{enumerate}
             }
 \fi
@@ -648,7 +649,7 @@
             Lorenzo Filipponio (HU Berlin)\\
             Richard Waltereit (HU Berlin)\\
             Esme Winter-Froemel (Julius-Maximilians-Universität Würzburg)\\
-            Anne C. Wolfsgruber (HU Berlin)\\
+            Anne C. Wolfsgruber (HU Berlin; FU Berlin)\\
 
             \bigskip
 
@@ -724,6 +725,7 @@
             \item Schulte im Walde, Sabine \&    Eva Smolka (eds.).  The role of constituents in multiword expressions: An interdisciplinary, cross-lingual perspective.
             \item Trklja, Aleksandar \& Łukasz Grabowski (eds.). Formulaic language: Theories and methods.
             \end{enumerate}
+            \item Giouli, Voula \& Verginica Barbu Mititelu (eds.). Multiword expressions in lexical resources: Linguistic, lexicographic, and computational perspectives.
             }
 \fi
 \ifx\lsSeries\rcg
@@ -879,7 +881,7 @@
              \bigskip
              
              Editors: Stefan Müller, Antonio Machicao y Priemer\\
-             Editorial Board: Claude Hagège, Marianne Mithun, Anatol Stefanowitsch, Foong Ha Yap
+             Editorial Board: Olivier Bonami, Pavel Caha, Rui Chaves, Louise McNally, Marianne Mithun, Katharina Spalek, Anatol Stefanowitsch, Foong Ha Yap
              
              \bigskip
              
@@ -897,7 +899,8 @@
              \item Hejná, Míša  \& George Walkden. A history of English.
              \item Kahane, Sylvain \& Kim Gerdes. Syntaxe théorique et formelle. Vol. 1: Modélisation, unités, structures.
              \item Freitas, Maria João, Marisa Lousada \& Dina Caetano Alves (eds.). Linguística clínica: Modelos, avaliação e intervenção.
-             \item Müller, Stefan.  Germanic syntax: A constraint-based view.
+             \item Müller, Stefan. Germanic syntax: A constraint-based view.
+             \item Neacșu, Vlad A. Linguistics Olympiad: Training guide.
              \end{enumerate}
              }
 \fi
@@ -927,6 +930,7 @@
             \item Næss, Åshild, Anna Margetts \& Yvonne Treis (eds.). Demonstratives in discourse.
 	    \item Gergel, Remus \& Jonathan Watkins (eds.). Quantification and scales in change.
 	    \item Nakagawa, Natsuko. Information structure in spoken Japanese: Particles, word order, and intonation.
+	    \item Same, Fahime. Referring expression generation in context: Combining linguistic and computational approaches.
             \end{enumerate}
             }
 \fi
