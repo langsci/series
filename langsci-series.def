@@ -983,6 +983,10 @@
 \ifx\lsSeries\tpd
 	\newcommand{\lsSeriesTitle}{Topics in Phonological Diversity}
 	\newcommand{\lsSeriesColor}{lsDarkBlue}
+
+	\renewcommand{\lsISSNelectronic}{2943-6540} %online
+	\renewcommand{\lsISSNprint}{2943-6559} %Print
+
 	\renewcommand{\lsSeriesText}{
             {\large {Topics in Phonological Diversity}
 
