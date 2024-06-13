@@ -36,6 +36,7 @@
 \newcommand{\tgdi}{tgdi}	%Topics at the  Grammar-Discourse Interface
 \newcommand{\tmnlp}{tmnlp}
 \newcommand{\tpd}{tpd}
+\newcommand{\whll}{whll}
 
 \newcommand{\dummyseries}{dummyseries}
 \newcommand{\guidelines}{guidelines}
@@ -1006,6 +1007,33 @@
             \begin{enumerate}
             \item Tallman, Adam J. R.,  Sandra Auderset  \&  Hiroto Uchihara   (eds.). Constituency and convergence in the Americas.
             \item Bracks, Christoph. Compound Intonation Units in Totoli: Postlexical prosody and the prosody-syntax interface.
+            \end{enumerate}
+            }
+        }
+\fi
+\ifx\lsSeries\whll
+	\newcommand{\lsSeriesTitle}{World Histories of Lexicography and Lexicology}
+	\newcommand{\lsSeriesColor}{lsNightGreen}
+
+	\renewcommand{\lsISSNelectro(*nic}{} %online
+	\renewcommand{\lsISSNprint}{*)} %Print
+
+	\renewcommand{\lsSeriesText}{
+            {\large {World Histories of Lexicography and Lexicology}
+
+            \bigskip
+
+            Editors: Fredric T. Dolezal (University of Georgia, USA),
+                    Roderick W. McConchie (Helsinki University, Finland)
+
+
+
+            \bigskip
+
+            In this series:
+
+            \begin{enumerate}
+            \item Williams, Geoffrey, Mathilde Le Meur \& Andrès Echavarria-Pelaez (eds.). West meets East: Papers in historical lexicography and lexicology from across the globe.
             \end{enumerate}
             }
         }
