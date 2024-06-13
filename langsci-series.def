@@ -1015,8 +1015,6 @@
 	\newcommand{\lsSeriesTitle}{World Histories of Lexicography and Lexicology}
 	\newcommand{\lsSeriesColor}{lsNightGreen}
 
-	\renewcommand{\lsISSNelectro(*nic}{} %online
-	\renewcommand{\lsISSNprint}{*)} %Print
 
 	\renewcommand{\lsSeriesText}{
             {\large {World Histories of Lexicography and Lexicology}
