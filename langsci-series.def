@@ -261,6 +261,7 @@
             \item Barlow, Russell. A grammar of Ulwa (Papua New Guinea).
             \item Terhart, Lena. A grammar of Paunaka.
             \item Pebley, Carol J. \& Thomas E. Payne. A grammar of Kagayanen.
+            \item Rohleder, Jean. A grammar of Vamale.
             \end{enumerate}
 
 
@@ -458,6 +459,9 @@
             \item McElvenny, James \& Ploder, Andrea. Holisms of communication: The early history of audio-visual sequence analysis.
             \item Anderson, Stephen R. Phonology in the Twentieth Century: Second edition, revised and expanded.
             \item McElvenny, James. Interviews in the history of linguistics: Volume I.
+            \item Maxwell, Alexander \& Raf van Rooy. Elementa universalis linguae Slavicae: Annotated translation with introductory essays by Raf Van Rooy and Alexander Maxwell.
+            \item Stockigt, Clara. Australian Pama­-Nyungan languages: Lineages of early description.
+            \item Carey, Hilary M. The Colonial Bible in Australia: Scripture translations by Biraban and Lancelot Threlkeld, 1825--1859.
             \end{enumerate}
 
             }
@@ -485,6 +489,7 @@
                 \item Daniel, Michael, Nina Dobrushina \& Dmitry Ganenkov (eds.). The Mehweb language: Essays on phonology, morphology and syntax.
                 \item Forker, Diana. A grammar of Sanzhi Dargwa.
                 \item Dolatian, Hossep, Afsheen Sharifzadeh \& Bert Vaux. A grammar of Iranian Armenian: Parskahayeren or Iranahayeren.
+                \item Dolatian, Hossep. Adjarian’s Armenian dialectology (1911): Translation and commentary.
                 \end{enumerate}
                 }
 \fi
@@ -738,6 +743,7 @@
             \item Trklja, Aleksandar \& Łukasz Grabowski (eds.). Formulaic language: Theories and methods.
             \end{enumerate}
             \item Giouli, Voula \& Verginica Barbu Mititelu (eds.). Multiword expressions in lexical resources: Linguistic, lexicographic, and computational perspectives.
+            \item Fendel, Victoria Beatrix (ed.). Support-verb constructions in the corpora of Greek: Between lexicon and grammar?
             }
 \fi
 \ifx\lsSeries\rcg
@@ -914,6 +920,7 @@
              \item Freitas, Maria João, Marisa Lousada \& Dina Caetano Alves (eds.). Linguística clínica: Modelos, avaliação e intervenção.
              \item Müller, Stefan. Germanic syntax: A constraint-based view.
              \item Neacșu, Vlad A. Linguistics Olympiad: Training guide.
+             \item Glass, Lelia, Markus Dickinson, Chris Brew \& Detmar Meurers. Language and computers. 2nd edition.
              \end{enumerate}
              }
 \fi
@@ -944,6 +951,7 @@
 	    \item Gergel, Remus \& Jonathan Watkins (eds.). Quantification and scales in change.
 	    \item Nakagawa, Natsuko. Information structure in spoken Japanese: Particles, word order, and intonation.
 	    \item Same, Fahime. Referring expression generation in context: Combining linguistic and computational approaches.
+	    \item Lemke, Robin, Lisa Schäfer, Ingo Reich (eds.).  Information structure and information theory.
             \end{enumerate}
             }
 \fi
@@ -1015,7 +1023,9 @@
             \begin{enumerate}
             \item Tallman, Adam J. R.,  Sandra Auderset  \&  Hiroto Uchihara   (eds.). Constituency and convergence in the Americas.
             \item Bracks, Christoph. Compound Intonation Units in Totoli: Postlexical prosody and the prosody-syntax interface.
+            \item Nikulin, Andrey \& Javier Carol. Historical phonology of Mataguayan.
             \end{enumerate}
+
             }
         }
 \fi
