@@ -27,6 +27,7 @@
 \newcommand{\ogl}{ogl}      %  Open Germanic Linguistics
 \newcommand{\orl}{orl}		%Open Romance Linguistics
 \newcommand{\osl}{osl}		%Open Slavic Linguistics
+\newcommand{\otc}{otc}		%Open Text Collections
 \newcommand{\pmwe}{pmwe}		%Phraseology and Multi-Word Expressions
 \newcommand{\rcg}{rcg} %
 \newcommand{\scl}{scl}
@@ -713,6 +714,41 @@
             \item Jędrzejowski, Łukasz, Uwe Junghanns, Kerstin Schwabe \& Carla Umbach (eds.). Syntax, semantics, and the lexicon: Papers by and in honor of Ilse Zimmermann.
             \end{enumerate}
             }
+\fi
+\ifx\lsSeries\otc
+	\newcommand{\lsSeriesTitle}{Open Text Collections}
+	\newcommand{\lsSeriesColor}{lsRichGreen}
+	\renewcommand{\lsISSNelectronic}{} % Online
+	\renewcommand{\lsISSNprint}{}% (Print)
+        \renewcommand{\lsSeriesText}{
+            {\large Open Text Collections}
+
+            \bigskip
+            Chief Editor:   Christian Döhler
+
+            \medskip
+
+            Editors:
+            Rogier Blokland,
+            Matt Coler,
+            Nick Emlen,
+            Diana Forker,
+            Jeff Good,
+            Karolina Grzech,
+            Andreas Hölzl,
+            Carolyn O’Meara,
+            Michael Rießler,
+            Alena Witzlack-Makarevich,
+            Kilu von Prince
+
+            \bigskip
+
+            In this series:
+
+            \begin{enumerate}
+            \item Döhler, Christian. Speaking the map: Komnzo texts.
+            \end{enumerate}
+        }
 \fi
 \ifx\lsSeries\pmwe
 	\newcommand{\lsSeriesTitle}{Phraseology and Multiword Expressions}
