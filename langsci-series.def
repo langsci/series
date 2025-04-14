@@ -1068,13 +1068,13 @@
 	\renewcommand{\lsISSNprint}{2943-6559} %Print
 
 	\renewcommand{\lsSeriesText}{
-            {\large {Topics in Phonological Diversity}
+            {\large Topics in Phonological Diversity}
 
             \bigskip
 
-            Editors:     Natalia Kuznetsova (Università Cattolica del Sacro Cuore,
-            Cormac Anderson (University of Surrey),
-            Shelece Easterday (University of Hawai'i, Mānoa)
+            Editors: Natalia Kuznetsova (Università Cattolica del Sacro Cuore),
+                     Cormac Anderson (University of Surrey),
+                     Shelece Easterday (University of Hawai'i, Mānoa)
 
 
             \bigskip
@@ -1088,9 +1088,7 @@
             \item Kim, Ji Yea,  Veronica Miatto, Andrija Petrović \& Lori Repetti (eds.).  Epenthesis and beyond: Recent approaches to insertion in phonology and its interfaces.
 
             \end{enumerate}
-
             }
-        }
 \fi
 \ifx\lsSeries\whll
 	\newcommand{\lsSeriesTitle}{World Histories of Lexicography and Lexicology}
@@ -1098,7 +1096,7 @@
 
 
 	\renewcommand{\lsSeriesText}{
-            {\large {World Histories of Lexicography and Lexicology}
+            {\large World Histories of Lexicography and Lexicology}
 
             \bigskip
 
@@ -1115,14 +1113,13 @@
             \item Williams, Geoffrey, Mathilde Le Meur \& Andrès Echavarria-Pelaez (eds.). West meets East: Papers in historical lexicography and lexicology from across the globe.
             \end{enumerate}
             }
-        }
         
 \fi
 \ifx\lsSeries\frats
 	\newcommand{\lsSeriesTitle}{Frame-Based Approaches to Semantics}
 	\newcommand{\lsSeriesColor}{lsLightBlue}
         \renewcommand{\lsSeriesText}{
-            {\large {Frame-Based Approaches to Semantics}
+            {\large Frame-Based Approaches to Semantics}
 
             \bigskip
 
@@ -1142,7 +1139,6 @@
             \item Koeva, Svetla (eds.). Universality of semantic frames and language specific Bulgarian data
             \end{enumerate}
             }
-        }
         
         
 \fi
