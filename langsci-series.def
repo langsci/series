@@ -606,7 +606,7 @@
 	\renewcommand{\lsISSNelectronic}{2750-557X} %online
 	\renewcommand{\lsISSNprint}{2750-5588} %Print
 	\renewcommand{\lsSeriesText}{
-            {\large  Open Germanic Linguistics
+            {\large  Open Germanic Linguistics}
             
             \bigskip
             
@@ -634,7 +634,6 @@
             \item Vieregge, Annika. Bewertung, Variation und Wandel der Präpositionalkasus im Deutschen: Der Einfluss metapragmatischer Urteile auf die Rektion von Präpositionen.
             \item Kinn, Kari \& Michael T. Putnam (eds.). A reference guide to the syntax of North American Norwegian.
             \end{enumerate}
- }
          }
 \fi
 \ifx\lsSeries\ogs
