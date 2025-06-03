@@ -40,6 +40,7 @@
 \newcommand{\tpd}{tpd}
 \newcommand{\whll}{whll}
 \newcommand{\frats}{frats} %Frame-based Approaches to Semantics
+\newcommand{\lngr}{lngr} %Languages of the New Guinea Region
 
 \newcommand{\dummyseries}{dummyseries}
 \newcommand{\guidelines}{guidelines}
@@ -1143,7 +1144,33 @@
             \end{enumerate}
             }
         
-        
+
+\fi
+\ifx\lsSeries\lngr
+	\newcommand{\lsSeriesTitle}{Languages of the New Guinea Region}
+	\newcommand{\lsSeriesColor}{lsSoftGreen}
+        \renewcommand{\lsSeriesText}{
+            {\large Languages of the New Guinea Region}
+
+            \bigskip
+
+            Editors: 	František Kratochvíl,
+    			Christian Döhler
+
+
+
+
+            \bigskip
+
+            In this series:
+
+            \begin{enumerate}
+            \item
+            \end{enumerate}
+            }
+
+
+
 \fi
 \ifx\lsSeries\dummyseries
 	\newcommand{\lsSeriesTitle}{~}
