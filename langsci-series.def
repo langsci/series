@@ -41,6 +41,7 @@
 \newcommand{\whll}{whll}
 \newcommand{\frats}{frats} %Frame-based Approaches to Semantics
 \newcommand{\lngr}{lngr} %Languages of the New Guinea Region
+\newcommand{\slr}{slr} % Spoken Language Research
 
 \newcommand{\dummyseries}{dummyseries}
 \newcommand{\guidelines}{guidelines}
@@ -249,15 +250,6 @@
 
             \bigskip
 
-            \begin{minipage}{\textwidth}% for undoing \raggedright and justify the following two paragraphs
-
-            No scientific work proceeds without conceptual foundations. In language science, our concepts about language determine our assumptions, direct our attention, and guide our hypotheses and our reasoning. Only with clarity about conceptual foundations can we pose coherent research questions, design critical experiments, and collect crucial data.
-            %
-            This series publishes short and accessible books that explore well-defined topics in the conceptual foundations of language science. The series provides a venue for conceptual arguments and explorations that do not require the traditional book-length treatment, yet that demand more space than a typical journal article allows.
-            \end{minipage}
-
-            \bigskip
-
             \textbf{In this series:}
 
             \begin{enumerate}
@@ -270,6 +262,7 @@
             \item Archangeli, Diana \& Douglas Pulleyblank. Emergent phonology.
             \item Lund, Kristine, Pierluigi Basso Fossali, Audrey Mazur \& Magali Ollagnier-Beldame (eds.). Language is a complex adaptive system: Explorations and evidence.
             \item Wiese, Heike. Grammatical systems without language borders: Lessons from free-range language.
+            \item De Smet, Hendrik, Guglielmo Inglese \& Malte Rosemeyer (eds.). Acting on actuation.
             \end{enumerate}
 
             }
@@ -1176,9 +1169,26 @@
             \item
             \end{enumerate}
             }
+\fi
+\ifx\lsSeries\slr
+	\newcommand{\lsSeriesTitle}{Spoken Language Research}
+	\newcommand{\lsSeriesColor}{lsDarkGreenTwo}
+        \renewcommand{\lsSeriesText}{
+            {\large Spoken Language Research}
 
+            \bigskip
 
+            Chief editor: 	Plinio A. Barbosa\\
+            Editors: Albert Rilliard, Eugenia San Segundo
 
+            \bigskip
+
+            In this series:
+
+            \begin{enumerate}
+            \item ~
+            \end{enumerate}
+            }
 \fi
 \ifx\lsSeries\dummyseries
 	\newcommand{\lsSeriesTitle}{~}
