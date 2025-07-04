@@ -743,8 +743,8 @@
 \ifx\lsSeries\otc
 	\newcommand{\lsSeriesTitle}{Open Text Collections}
 	\newcommand{\lsSeriesColor}{lsRichGreen}
-	\renewcommand{\lsISSNelectronic}{} % Online
-	\renewcommand{\lsISSNprint}{}% (Print)
+	\renewcommand{\lsISSNelectronic}{3052-9956 } % Online
+	\renewcommand{\lsISSNprint}{3052-9948}% (Print)
         \renewcommand{\lsSeriesText}{
             {\large Open Text Collections}
 
@@ -1098,6 +1098,8 @@
 \ifx\lsSeries\whll
 	\newcommand{\lsSeriesTitle}{World Histories of Lexicography and Lexicology}
 	\newcommand{\lsSeriesColor}{lsNightGreen}
+	\renewcommand{\lsISSNelectronic}{3052-993X } %online
+	\renewcommand{\lsISSNprint}{3052-9921} %Print
 
 
 	\renewcommand{\lsSeriesText}{
