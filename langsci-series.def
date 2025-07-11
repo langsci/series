@@ -192,8 +192,8 @@
 \ifx\lsSeries\cicl
 	\newcommand{\lsSeriesTitle}{Current Issues in Celtic Linguistics}
 	\newcommand{\lsSeriesColor}{lsRichGreen}
-	\renewcommand{\lsISSNelectronic}{}
- 	\renewcommand{\lsISSNprint}{} 
+	\renewcommand{\lsISSNelectronic}{3053-030X}
+ 	\renewcommand{\lsISSNprint}{3053-0296}
  	\renewcommand{\lsSeriesText}{
         {\large  Current Issues in Celtic Linguistics}
 
@@ -1125,6 +1125,8 @@
 \ifx\lsSeries\frats
 	\newcommand{\lsSeriesTitle}{Frame-Based Approaches to Semantics}
 	\newcommand{\lsSeriesColor}{lsLightBlue}
+	\renewcommand{\lsISSNelectronic}{3053-0288} %online
+	\renewcommand{\lsISSNprint}{3053-027X} %Print
         \renewcommand{\lsSeriesText}{
             {\large Frame-Based Approaches to Semantics}
 
