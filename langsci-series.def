@@ -125,7 +125,8 @@
             \item Green, Christopher R. \& Samson Lotven (eds.). The Ghanaian linguistics nexus.
             \item Essegbey, James, Brent Henderson, Fiona McLaughlin \& Michael Diercks Pushing the boundaries: Selected papers from the 51–52 Annual Conference on African Linguistics.
             \item Huang, Yaqian, Nina Hagen Kaldhol, Jun Jie Lim, Sharon Rose \& Anthony Struthers-Young (eds.). ACAL in SoCAL: Selected papers from the 53rd Annual Conference on African Linguistics.
-            \item van der Wal, Jenneke (ed.). The expression of information structure in Bantu.            
+            \item van der Wal, Jenneke (ed.). The expression of information structure in Bantu.
+            \item Akinlabi, Akinbiyi, Sampson Korsah, Sharon Rose \& Abdul-Razak Sulemana (eds.). Cross-disciplinary approaches to Information Structure in Niger-Congo languages.
             \end{enumerate}
             }
 \fi
@@ -619,8 +620,8 @@
             \bigskip
             
             In this series:
-            
-            \begin{enumerate}
+
+            \lsSeriesHistoryWheel[12]{
             \item Lemke, Robin. Experimental investigations on the syntax and usage of fragments.
             \item Larsson, Ida \& Erik Petzell (eds.). Morphosyntactic change in Late Modern Swedish.
             \item Hall, Tracy Alan. Velar fronting in German dialects: A study in synchronic and diachronic phonology.
@@ -634,7 +635,9 @@
             \item Kinn, Kari \& Michael T. Putnam (eds.). A reference guide to the syntax of North American Norwegian.
             \item Schäfer, Lisa. The licensing and usage of topic drop in German.
             \item Demske, Ulrike \& Barthe Bloom . Discourse structure and narration: A diachronic view from Germanic.
-            \end{enumerate}
+            \item Verelst, Natalie. The dynamics of feminisation: A corpus-based diachronic analysis of Dutch and German feminising morphology.
+            \item Harchaoui, Sarah  \& Pierre-Yves Modicom (eds.). Verb-third phenomena in Germanic verb-second languages: Historical and variational perspectives.
+            }
          }
 \fi
 \ifx\lsSeries\ogs
@@ -772,6 +775,10 @@
 
             \begin{enumerate}
             \item Döhler, Christian. Speaking the map: Komnzo texts.
+            \item Zahrer, Alexander. Children of the sago: Muyu texts.
+            \item Vogel, Alan. The Stories of Siko and Yowao: Jarawara texts.
+            \item Mohammadirad, Masoud. Echoes of the past: Hewramî narratives.
+            \item Lindsey, Kate L. The Ende way: Short stories and songs from Limol prepared with the Ende Language Committee.
             \end{enumerate}
         }
 \fi
@@ -830,6 +837,7 @@
                 \item  Janic, Katarzyna, Nicoletta Puddu \& Martin Haspelmath (eds.). Reflexive constructions in the world's languages.
                 \item  Persohn, Bastian. The polyfunctionality of `still' expressions: A cross-linguistic exploration.
                 \item Pakendorf, Brigitte \& Françoise Rose. Fillers: Hesitatives and placeholders.
+                \item  Däbritz, Chris Lasse, Josefina Budzisch \& Rodolfo Basile (eds.). Locative and existential predication: On forms, functions and neighboring domains.
             \end{enumerate}
             }
 \fi
@@ -951,6 +959,7 @@
             \item Albert, Aviad. A model of sonority based on pitch intelligibility.
             \item Wehrle, Simon. Conversation and intonation in autism: A multi-dimensional analysis.
             \item Kaland, Constantijn. Word stress in prosodic theory.
+            \item Lialiou, Maria. Prosody and attention orienting: The role of rising intonation in speech processing.
             }
             }
             
