@@ -294,6 +294,7 @@
             \item Pebley, Carol J. \& Thomas E. Payne. A grammar of Kagayanen.
             \item Rohleder, Jean. A grammar of Vamale.
             \item Kasak, Ryan. A grammar of Mandan.
+            \item Mohammadirad, Masoud. A grammar of Hewramî.
             \end{enumerate}
 
 
@@ -453,6 +454,8 @@
 
             \begin{enumerate}
             \item Dyck, Carrie, Frances Froman, Alfred Keye \& Lottie Keye. A grammar and dictionary of Gayogo̱hó:nǫˀ (Cayuga).
+            \item Moens, Jelien \&  Matthias Pache. Notes on the grammar of Andakí.
+
             \end{enumerate}
 }
 \fi
@@ -638,6 +641,8 @@
             \item Demske, Ulrike \& Barthe Bloom . Discourse structure and narration: A diachronic view from Germanic.
             \item Verelst, Natalie. The dynamics of feminisation: A corpus-based diachronic analysis of Dutch and German feminising morphology.
             \item Harchaoui, Sarah  \& Pierre-Yves Modicom (eds.). Verb-third phenomena in Germanic verb-second languages: Historical and variational perspectives.
+            \item Roehrs, Dorian. Semantically vacuous elements in German: Adjectival inflections and the article \emph{ein}
+
             }
          }
 \fi
@@ -780,6 +785,7 @@
             \item Vogel, Alan. The Stories of Siko and Yowao: Jarawara texts.
             \item Mohammadirad, Masoud. Echoes of the past: Hewramî narratives.
             \item Lindsey, Kate L. The Ende way: Short stories and songs from Limol prepared with the Ende Language Committee.
+            \item Zielenbach, Maria. Half silver, half gold: Modole folk stories and a first sketch grammar.
             \end{enumerate}
         }
 \fi
@@ -1027,6 +1033,10 @@
 	    \item Nakagawa, Natsuko. Information structure in spoken Japanese: Particles, word order, and intonation.
 	    \item Same, Fahime. Referring expression generation in context: Combining linguistic and computational approaches.
 	    \item Lemke, Robin, Lisa Schäfer, Ingo Reich (eds.).  Information structure and information theory.
+	    \item Trinh, Tue, Anton Benz, Daniel Goodhue, Kazuko Yatsushiro \& Manfred Krifka (eds.). Biased questions: Experimental results and theoretical modelling.
+(Topics at the Grammar-Discourse Interface 11)
+
+
             \end{enumerate}
             }
 \fi
@@ -1071,6 +1081,8 @@
             \item Marzouk, Shaimaa. Sprachkontrolle im Spiegel der Maschinellen Übersetzung: Untersuchung zur Wechselwirkung ausgewählter Regeln der Kontrollierten Sprache mit verschiedenen Ansätzen der Maschinellen Übersetzung.
             \item Frittella, Francesca Maria. Usability research for interpreter-centred technology: The case study of SmarTerp.
             \item Prandi, Bianca. Computer-assisted simultaneous interpreting: A cognitive-experimental study on terminology.
+            \item Czulo, Oliver, Martin Kappus \& Felix Hoberg (eds.). Digitale Translatologie.
+            \item Penet, JC, Joss Moorkens \& Masaru Yamada (eds.). Teaching translation in the age of generative AI: New paradigm, new learning?
             }
             }
 \fi
