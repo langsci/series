@@ -1014,6 +1014,11 @@ diaspora.
              \item Müller, Stefan. Germanic syntax: A constraint-based view.
              \item Neacșu, Vlad A. Linguistics Olympiad: Training guide.
              \item Glass, Lelia, Markus Dickinson, Chris Brew \& Detmar Meurers. Language and computers. 2nd edition.
+             \item Marques, Rui. Modalidade e modo em português europeu.
+             \item The Saguaro Group (ed.). Indigenous languages of the Americas and their structures: Sounds.
+             %\item Müller HPSG
+             %\item Berthele
+             %\item Reynolds
              \end{enumerate}
              }
 \fi
@@ -1086,10 +1091,11 @@ diaspora.
             \item Nitzke, Jean \& Silvia Hansen-Schirra. A short guide to post-editing.
             \item Hoberg, Felix. Informationsintegration in mehrsprachigen Textchats: Der Skype Translator im Sprachenpaar Katalanisch-Deutsch.
             \item Kenny, Dorothy (ed.). Machine translation for everyone: Empowering users in the age of artificial intelligence.
-(*             \item Kajzer-Wietrzny, Marta, Adriano Ferraresi,   Ilmari Ivaska \& Silvia Bernardini. Mediated discourse at the European Parliament: Empirical investigations. *)
+            \item Kajzer-Wietrzny, Marta, Adriano Ferraresi,   Ilmari Ivaska \& Silvia Bernardini. Mediated discourse at the European Parliament: Empirical investigations.
             \item Marzouk, Shaimaa. Sprachkontrolle im Spiegel der Maschinellen Übersetzung: Untersuchung zur Wechselwirkung ausgewählter Regeln der Kontrollierten Sprache mit verschiedenen Ansätzen der Maschinellen Übersetzung.
             \item Frittella, Francesca Maria. Usability research for interpreter-centred technology: The case study of SmarTerp.
             \item Prandi, Bianca. Computer-assisted simultaneous interpreting: A cognitive-experimental study on terminology.
+            \item Kenny, Dorothy (ed.). \lsSeriesHistoryFandolSong{机器翻译知识普及: 为人工智能时代的用户赋能}.
             \item Czulo, Oliver, Martin Kappus \& Felix Hoberg (eds.). Digitale Translatologie.
             \item Penet, JC, Joss Moorkens \& Masaru Yamada (eds.). Teaching translation in the age of generative AI: New paradigm, new learning?
             \item Lardelli, Manuel. Gender-fair language in translation and post-editing: Insights and best practices.
