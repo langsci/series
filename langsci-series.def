@@ -1140,7 +1140,7 @@ diaspora.
             }
 \fi
 \ifx\lsSeries\whll
-	\newcommand{\lsSeriesTitle}{World Histories of Lexicography and Lexicology}
+	\newcommand{\lsSeriesTitle}{World Histories of Lexicography and{\newlineCover} Lexicology}
 	\newcommand{\lsSeriesColor}{lsNightGreen}
 	\renewcommand{\lsISSNelectronic}{3052-993X } %online
 	\renewcommand{\lsISSNprint}{3052-9921} %Print
