@@ -1211,6 +1211,8 @@ negated complement clauses in Spanish.
 \ifx\lsSeries\lngr
 	\newcommand{\lsSeriesTitle}{Languages of the New Guinea Region}
 	\newcommand{\lsSeriesColor}{lsSoftGreen}
+	\renewcommand{\lsISSNelectronic}{3056-4654} %online
+	\renewcommand{\lsISSNprint}{3056-4646} %Print
         \renewcommand{\lsSeriesText}{
             {\large Languages of the New Guinea Region}
 
